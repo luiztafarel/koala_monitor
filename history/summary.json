@@ -1,22 +1,22 @@
 [
   {
     "name": "DS Suporte",
-    "url": "http://delphi.serveftp.com",
-    "icon": "https://icons.duckduckgo.com/ip3/delphi.serveftp.com.ico",
+    "url": "delphi.serveftp.com",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ds-suporte",
     "status": "down",
-    "uptime": "12.26%",
-    "uptimeDay": "12.26%",
-    "uptimeWeek": "12.26%",
-    "uptimeMonth": "12.26%",
-    "uptimeYear": "12.26%",
+    "uptime": "6.25%",
+    "uptimeDay": "6.25%",
+    "uptimeWeek": "6.25%",
+    "uptimeMonth": "6.25%",
+    "uptimeYear": "6.25%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-10": 4
+      "2025-02-10": 8
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 384,
-    "timeWeek": 384,
-    "timeMonth": 384,
-    "timeYear": 384,
+    "time": 316,
+    "timeDay": 316,
+    "timeWeek": 316,
+    "timeMonth": 316,
+    "timeYear": 316,
     "dailyMinutesDown": {}
   }
 ]
