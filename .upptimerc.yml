@@ -4,8 +4,7 @@ repo: koala_monitor # The name of this repository
 
 sites:
   - name: DS Suporte
-    url: delphi.serveftp.com
-    port: 3001
+    url: delphi.serveftp.com:3001
   - name: Wikipedia
     url: https://en.wikipedia.org
 
