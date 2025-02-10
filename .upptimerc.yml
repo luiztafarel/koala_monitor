@@ -4,7 +4,8 @@ repo: koala_monitor # The name of this repository
 
 sites:
   - name: DS Chave
-    url: delphi.serveftp.com:3050
+    url: delphi.serveftp.com
+    port: 3050
   - name: DS Work
     url: delphi.serveftp.com:3002
   - name: DS Suporte
