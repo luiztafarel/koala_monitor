@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-12": 6,
+      "2025-02-12": 1200,
       "2025-02-11": 1440,
       "2025-02-10": 587
     }
@@ -26,18 +26,20 @@
     "url": "delphi.serveftp.com:3002",
     "icon": "https://icons.duckduckgo.com/ip3/3002.ico",
     "slug": "ds-work",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 332,
-    "timeDay": 305,
+    "timeDay": 290,
     "timeWeek": 332,
     "timeMonth": 332,
     "timeYear": 332,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-12": 0
+    }
   },
   {
     "name": "DS Suporte",
@@ -45,13 +47,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/3001.ico",
     "slug": "ds-suporte",
     "status": "up",
-    "uptime": "99.11%",
+    "uptime": "99.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "99.11%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
     "time": 820,
-    "timeDay": 691,
+    "timeDay": 650,
     "timeWeek": 820,
     "timeMonth": 820,
     "timeYear": 820,
