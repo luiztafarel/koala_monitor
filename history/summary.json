@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-12": 1208,
+      "2025-02-13": 6,
+      "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 587
     }
@@ -27,19 +28,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/3002.ico",
     "slug": "ds-work",
     "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
-    "time": 328,
-    "timeDay": 298,
-    "timeWeek": 328,
-    "timeMonth": 328,
-    "timeYear": 328,
-    "dailyMinutesDown": {
-      "2025-02-12": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 334,
+    "timeDay": 338,
+    "timeWeek": 334,
+    "timeMonth": 334,
+    "timeYear": 334,
+    "dailyMinutesDown": {}
   },
   {
     "name": "DS Suporte",
@@ -47,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/3001.ico",
     "slug": "ds-suporte",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 820,
-    "timeDay": 650,
-    "timeWeek": 820,
-    "timeMonth": 820,
-    "timeYear": 820,
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
+    "time": 798,
+    "timeDay": 664,
+    "timeWeek": 798,
+    "timeMonth": 798,
+    "timeYear": 798,
     "dailyMinutesDown": {
       "2025-02-10": 18
     }
