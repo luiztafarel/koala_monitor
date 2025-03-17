@@ -1,7 +1,7 @@
 url: delphi.serveftp.com:3001
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-16T23:04:25.048Z
+status: up
+code: 200
+responseTime: 575
+lastUpdated: 2025-03-17T11:45:46.742Z
 startTime: 2025-02-10T13:51:29.577Z
 generator: Upptime <https://github.com/upptime/upptime>
